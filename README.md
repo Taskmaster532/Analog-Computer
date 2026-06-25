@@ -4,7 +4,7 @@
 
 This project presents the design and implementation of an Analog Computer using Operational Amplifier (Op-Amp) circuits capable of performing fundamental mathematical operations such as amplification, addition, subtraction, multiplication, integration, and differentiation. The system demonstrates how analog computation can be used to process continuous electrical signals and solve mathematical problems in real time.
 
-Different Op-Amp configurations are utilized to implement each operation. A summing amplifier circuit is used for addition, a differential amplifier for subtraction, analog multiplier circuits for multiplication, an integrator circuit for integration, and a differentiator circuit for differentiation and non-inverting amplifier for amplification.
+Different Op-Amp configurations are utilized to implement each operation. A summing amplifier circuit is used for addition, a differential amplifier for subtraction, log and antilog amplifier circuits for multiplication, an integrator circuit for integration, and a differentiator circuit for differentiation and non-inverting amplifier for amplification.
 
 The project aims to provide practical knowledge of analog signal processing and operational amplifier applications while illustrating the working principles of early analog computers. It also helps in understanding circuit design, mathematical modeling using electrical components, and real-time computation techniques.
 
