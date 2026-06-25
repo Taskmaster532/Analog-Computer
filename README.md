@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project presents the design and implementation of an Analog Computer using TL071 Operational Amplifier (Op-Amp) capable of performing fundamental mathematical operations such as amplification, addition, subtraction, multiplication, integration, and differentiation. The system demonstrates how analog computation can be used to process continuous electrical signals and solve mathematical problems in real time.
+This project presents the design and implementation of an Analog Computer using TL071 Operational Amplifier (Op-Amp) capable of performing fundamental mathematical operations such as amplification, addition, subtraction, multiplication, integration, and differentiation. The project demonstrates how analog computation can be used to process continuous electrical signals and solve mathematical problems in real time.
 
 Different Op-Amp configurations are utilized to implement each operation. A summing amplifier circuit is used for addition, a differential amplifier for subtraction, log and antilog amplifier circuits for multiplication, an integrator circuit for integration, and a differentiator circuit for differentiation and non-inverting amplifier for amplification.
 
